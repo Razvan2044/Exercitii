@@ -16,7 +16,7 @@ public class Car {
         this.regularPrice = regularPrice;
         this.color = color;
     }
-
+// test
     public double getSalePrice() {
         return regularPrice;
     }
